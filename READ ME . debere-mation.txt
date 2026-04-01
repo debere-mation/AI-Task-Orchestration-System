@@ -1,0 +1,33 @@
+# AI Task Orchestration System
+
+An intelligent AI workflow automation system designed to streamline task management, reduce human errors, and improve organizational efficiency.
+
+## Features
+- **Automated Task Extraction** – Extracts structured tasks from unstructured messages (Slack, email, internal requests)
+- **Priority Classification** – Assigns urgency levels automatically
+- **Task Generation** – Converts raw input into actionable tasks
+- **Workflow Orchestration** – Ensures tasks are executed efficiently without human intervention
+
+## Technologies
+- Python
+- AI / NLP concepts
+- API integration
+- Automation frameworks
+
+## How It Works
+1. Accepts unstructured input from communication channels
+2. Parses the information to identify tasks
+3. Automatically classifies and prioritizes tasks
+4. Generates structured task outputs for execution
+
+## Project Files
+- `Project-Proof.pdf` – Detailed project document  
+- `code/main.py` – Python code for AI task orchestration  
+- `diagrams/workflow.png` – Visual workflow of the system  
+- `screenshots/demo.png` – Optional demonstration screenshot
+
+## Scholarship Application Use
+This project demonstrates real-world AI automation skills, problem-solving, and independent execution. It is attached to scholarship applications as evidence of capability and initiative.
+
+## Contact
+[debere-mation] – [deradebere555@gmail.com]
